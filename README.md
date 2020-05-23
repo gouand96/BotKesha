@@ -1,5 +1,5 @@
 # BotKesha
-It is a telegram bot. He take whether and show as telegram message. Also this bot is able to get Youtube videos and convert it in mb3 format!
+It is a telegram bot. He take whether and show as telegram message. Also this bot is able to get Youtube videos and convert it to mb3 format!
 
 
 #### Commands for run this project:
