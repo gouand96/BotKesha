@@ -1,9 +1,3 @@
-# from KeshaBot import KeshaBot
-#
-#
-# keshaBot = KeshaBot;
-# keshaBot.connect_to(self=KeshaBot,token="914475162:AAEqTvcLdEYLudu1sPwTfWNXeLC6oKFNNzE")
-# keshaBot.sendEchoMessage(self=KeshaBot, message="Hello world")
 from __future__ import unicode_literals
 
 import mechanize
